@@ -1,16 +1,37 @@
-div.menu{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-         background-color: dimgray}
+div.menu {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: dimgray
+}
+
 h1.title {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 48px;
     float: right
 }
+
 }
-h4.menu{
+
+h4.menu {
     font-size: 24px;
     float: left
 }
-a:link{color: black}
-a:visited{color: black}
-div.media{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-          font-size: 18px}
+
+a:link {
+    color: black
+}
+
+a:visited {
+    color: black
+}
+
+div.twitter {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    float: left
+}
+
+div.youtube {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    float: right
+}
