@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Website maker files
+webmaker.py
+headertemp.html
+headertemp2.html
+webmaker.exe
