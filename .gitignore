@@ -364,7 +364,5 @@ FodyWeavers.xsd
 
 # Website maker files
 webmaker.py
-headertemp.html
-headertemp2.html
 webmaker.exe
-WebMaker.exe
+WebsiteMaker.exe

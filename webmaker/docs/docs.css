@@ -1,5 +1,18 @@
-code {background-color: lightgray;
-      border: thin
+code {background-color: dimgray;
+      border: thick;
+      border-spacing: 20px;
+      border-color: lightgray;
+      color: ghostwhite;
+      font-family: "Ubuntu Monospace", "Cascadia Code", monospace;
 }
 
 div.head {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
+
+div.contents {background-color: lightgray;
+       border: thick;
+       border-color: gray;
+}
+
+table.image {text-align: right;
+             align-items: end;
+}
