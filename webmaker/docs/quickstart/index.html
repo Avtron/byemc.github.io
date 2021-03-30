@@ -23,12 +23,21 @@
             <tr>
                 <td><a href="#1.2">1.2: Setup</a></td>
             </tr>
+            <tr>
+                <td><a href="#2">2: Usage</a></td>
+            </tr>
+            <tr>
+                <td><a href="#2.1" />2.1: Windows</a></td>
+            </tr>
+            <tr>
+                <td><a href="#2.1.1">2.1.1: Reccommended</a></td>
+            </tr>
         </table>
     </div>
     <h2><a name="1">1: Before you start</a></h2>
     <h3><a name="1.1">1.1: Downloading</a></h3>
     <p>There are two offical ways to install Website Maker. There are also multiple versions of Website Maker. This tutorial focuses on the Windows command-line version, but most advice does carry over to the universal command-line version.</p>
-    <p>With that sorted, let's go downloading! First go to either the <a href="https://github.com/iamunsttv/webmaker/releases/">Github</a> page or the <a href="https://byemc.itch.io/webmaker">Itch</a> page and download <code>WebsiteMaker.exe</code> or <code>webmaker.py</code>, but not anything starting with <code>webmakergui</code>.</p>
+<a name="download" />    <p>With that sorted, let's go downloading! First go to either the <a href="https://github.com/iamunsttv/webmaker/releases/">Github</a> page or the <a href="https://byemc.itch.io/webmaker">Itch</a> page and download <code>WebsiteMaker.exe</code> or <code>webmaker.py</code>, but not anything starting with <code>webmakergui</code>.</p>
     <h3><a name="1.2">1.2: Setup</a></h3>
     <p>Now make two files, one called <code>headertemp.html</code> and another called <code>headertemp2.html</code>. Type out your header code as usual, but stop when you finish the opening <code>title</code> tag save and close the file. </p>
     <table class="image">
@@ -45,7 +54,7 @@
             <td><img src="pics/header2.png" alt="Continue on, but don't add a title or a body." /></td>
         </tr>
         <tr>
-            <td><em>Coninue on with <code>headertemp2.html</code>, but don't add a title or body. </em></td>
+            <td><em>Continue on with <code>headertemp2.html</code>, but don't add a title or body. </em></td>
         </tr>
     </table>
     <p>When you open both files, <code>headertemp.html</code> should look blank, and <code>headertemp2.html</code> should have your header and menu.</p>
@@ -58,8 +67,30 @@
         </tr>
     </table>
     <a name="cite1" /><p>Now, copy and <sup><a name="cite1"><a href="#foot1">1</a></sup> the file you downloaded into the folder with the files you created earlier.</p>
+    
+    <a name="2" /><h2>2: Usage</h2>
+    <a name="2.1" /><h3>2.1: Windows</h3>
+    <a name="2.1.1" /><h4>2.1.1: Reccommended</h4>
 
+    <p>Now, if you're are using the <code>.exe</code> version, double-click the file.</p>
+    <p>Follow the instuctions onscreen and open the resulting file.</p>
+
+    <a name="2.1.2" /><h4>2.1.2: Raw Python</h4>
+    <p>You <em>can</em> use the raw Python files (downloadable from the <a href="#download">same link</a> as before), but you need <a href="www.python.org/downloads">Python 3</a> installed on your PC. Just move the downloaded file to the same folder as the <code>headertemp</code> files, then double-click the file.</p>
+
+    <a name="2.2" /><h3>2.2: macOS and Linux</h3>
+    <a name="2.2.1" /><h4>2.2.1: Reccommended</h4>
+    <p>Make sure you've downloaded the <code>webmaker.py</code> file and have copied it to the directory with the <code>headertemp</code> files. Open a terminal window in the folder with the files, or, if you use macOS, follow these steps: <a href="#foot2"><sup>1</sup></a><a name="cite2" /></p>
+    <ol><li>Open Spotlight with <code>Command</code>+<code>Space bar</code> and search for <code>Terminal</code>. <br /><img src="pics/mac2.png" alt="A window with spotlight open, looking at the Terminal app." /></li>
+        <li>Use the <code>cd</code> command to go to the directory with the Python file. In the photo it's the Documents folder.<br /><img src="pics/mac3.png" alt="Use the 'cd' command to navigate to the folder with the Python file." /></li>
+        <li>Type <code>python3 WebsiteMaker.py</code> into the terminal. If you see a message like the one in the screenshot, press Install and wait for it to install.<br /><img src="pics/mac4.png" alt="The message says: 'The python3 command requires the command line..." /></li>
+        <li>When it's done, type <code>python3 WebsiteMaker.py</code> again. If it crashes, check that the <code>headertemp</code> files are in the same folder as the downloaded files. Check that a message asking for the filename of the file you want to create appears. If it does you've used it correctly!</li></ol>
+
+    <br />
+    <br />
     <div class="footnotes">
-        <a name="foot1" /> <p><sub><a href="#cite1">^</a> <a href="#foot1">1</a></sub> On Windows and most Linux <abbr title="distributions">distros</abbr>, use <code><abbr title="Control">Ctrl</abbr></code>+<code>C</code>. On Mac systems, use Command+C. To paste, do the same but use P instead of C.</p>
+        <a name="foot1" /> <p><sub><a href="#cite1">^</a> <a href="#foot1">1</a></sub> On Windows and most Linux <abbr title="distributions">distros</abbr>, use <code><abbr title="Control">Ctrl</abbr></code>+<code>C</code>. On Mac systems, use Command+C. To paste, do the same but use <code>V</code> instead of <code>C</code>.</p>
+        <a name="foot2" /> <p><a href="#cite2"><sup>^</sup></a> <a href="#foot2"><sup>2</sup></a> You can do the same steps in Linux too, but the VM I had wasn&#39;t working as well as I wanted</p>
+    </div>
 </body>
 </html>
