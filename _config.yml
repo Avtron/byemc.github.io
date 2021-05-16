@@ -1,1 +1,8 @@
-theme: jekyll-theme-midnight
+plugins:
+  - jekyll-feed
+
+title: "ByeMC's Site"
+description: "Awsome blog/thing that does sthuff"
+url: "https://byemc.github.io"
+author: "ByeMC"
+
