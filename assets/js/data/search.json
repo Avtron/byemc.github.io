@@ -1,4 +1,19 @@
 [
   
+  {
+    "title": "How I Got This To Work",
+    "url": "/posts/how-i-got-this-to-work/",
+    "categories": "",
+    "tags": "tech, github-pages",
+    "date": "2021-05-17 00:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Hello, and welcome to my brand-new, revamped website! Using GitHub Pages, I’ve been hosting a small website for the last few months. However, I’ve been wanting to start a blog. For this, I’m going to use Jekyll. Jekyll lets you make dynamic websites. It’s mainly used as a blogging tool, and Pages..."
+  }
+  
 ]
 

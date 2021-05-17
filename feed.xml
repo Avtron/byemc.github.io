@@ -4,7 +4,7 @@
   <id>https://byemc.github.io/</id>
   <title>ByeMC</title>
   <subtitle>Someone who likes making stuff for YouTube, Twitch, Twitter and this Blog</subtitle>
-  <updated>2021-05-17T20:07:04+00:00</updated>
+  <updated>2021-05-17T20:08:00+00:00</updated>
   <author>
     <name>ByeMC</name>
     <uri>https://byemc.github.io/</uri>
@@ -17,6 +17,40 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>How I Got This To Work</title>
+    <link href="https://byemc.github.io/posts/how-i-got-this-to-work/" rel="alternate" type="text/html" title="How I Got This To Work" />
+    <published>2021-05-17T00:00:00+00:00</published>
+  
+    <updated>2021-05-17T00:00:00+00:00</updated>
+  
+    <id>https://byemc.github.io/posts/how-i-got-this-to-work/</id>
+    <content src="https://byemc.github.io/posts/how-i-got-this-to-work/" />
+    <author>
+      <name>ByeMC</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Hello, and welcome to my brand-new, revamped website! Using GitHub Pages, I’ve been hosting a small website for the last few months. However, I’ve been wanting to start a blog. For this, I’m going to use Jekyll. Jekyll lets you make dynamic websites. It’s mainly used as a blogging tool, and Pages has internal support for it.
+
+This site uses a theme called Chirpy, but GitHub Pages does not have ...
+    </summary>
+  
+
+  </entry>
 
 </feed>
 
