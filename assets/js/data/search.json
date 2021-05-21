@@ -1,10 +1,10 @@
 [
   
   {
-    "title": "Heplo",
-    "url": "/posts/heplo/",
+    "title": "ByeTools is getting Undertale support (and I guess this is the first time I&#39;ve ever mentioned it)!",
+    "url": "/posts/byetools-is-getting-undertale-support/",
     "categories": "",
-    "tags": "",
+    "tags": "byetools, python, tools, byetools-x-undertale, undertale",
     "date": "2021-05-21 17:30:00 +0000",
     
 
@@ -12,7 +12,7 @@
 
 
 
-    "snippet": "So. Hello. Good bye now."
+    "snippet": "So, recently I decieded to start playing Undertale, and after about two hours(!) I decided to change up my save game. Unfortunatly, Annoying Dog had other ideas.So, what about stopping this? There is a tool called UndertaleSandbox that can do this, but I find it restrictive and hard to use. How a..."
   },
   
   {
