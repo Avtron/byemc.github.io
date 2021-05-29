@@ -1,4 +1,5 @@
 ---
+layout: post
 title: ByeTools is getting Undertale support (and I guess this is the first time I've ever mentioned it)!
 date: Mon, May 21, 2021, 7:25 PM +0100
 tags: byetools python tools byetools-x-undertale undertale
