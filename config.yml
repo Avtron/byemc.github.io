@@ -8,8 +8,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: ByeMC
-      excerpt_separator: <!--more-->
+      author: "ByeMC"
+      excerpt_separator: "<!--more-->"
   -
     scope:
       path: ""

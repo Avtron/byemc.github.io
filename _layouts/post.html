@@ -1,7 +1,14 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<dir class="title">
+    <h1>{{ page.title }}</h1>
+</dir>
+<dir class="postinfo">
+    <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+</dir>
 
-{{ content }}
+<dir class="content">
+    {{ content }}
+</dir>
+

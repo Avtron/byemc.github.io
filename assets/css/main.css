@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,500&display=swap');
+
+div.content {
+    font-family: Montserrat, Ubuntu, Calibri, sans-serif;
+}
+
+div.postinfo {
+    font-family: Montserrat, Ubuntu, Calibri, sans-serif;
+}
+
+div.title {
+    font-family: Montserrat, Ubuntu, Calibri, sans-serif;
+}
+
+div.posts {
+    font-family: Montserrat, Ubuntu, Calibri, sans-serif;
+}
