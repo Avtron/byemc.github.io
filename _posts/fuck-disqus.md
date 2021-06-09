@@ -15,4 +15,4 @@ Hello there! As some of my Twitter followers would know, I recently posted a *re
 In short, I loaded up my website on my iPhone, looking at Safari through the iOS 15 beta. I tapped on my post and... what? What is this ad on my website!? I didn't put those there!
 So I quickly searched up if Disqus used ads (the ads appeared above and below Disqus, but below the *Comments* header), and... yes. It does. 
 
-Mad that I hadn't seen this sooner
+Mad that I hadn't seen this sooner, I hastily plotted out this Tweet and went to school. 
