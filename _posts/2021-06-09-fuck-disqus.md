@@ -1,6 +1,6 @@
 ---
 title: Fuck Disqus. 
-date: 2021-09-06 18:06 +0001
+date: 2021-06-09 18:06 +0001
 excerpt_separator: <!--more-->
 ---
 
