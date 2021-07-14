@@ -4,6 +4,8 @@ date: 2021-09-06 18:06 +0001
 excerpt_separator: <!--more-->
 ---
 
+*The blog is being moved to blog.byemc.xyz, hosted on Tumblr.*
+
 *This post contains Twitter embeds. Luckily, I spotted the `?refid=`s early and removed them from the links.*
 
 Hello there! If you click on this post and take a look at the bottom of it, you should see a "Comments" section. And this morning, I discovered something horrible, something I never noticed because my default web browser ([Brave](//brave.com/)) has adblocking enabled by default. You ready to hear what it is? Disqus put ads on my website, without me knowing. (Spoiler, they're gone now)
