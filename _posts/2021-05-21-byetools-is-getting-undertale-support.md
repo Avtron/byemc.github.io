@@ -5,6 +5,8 @@ tags: byetools python tools byetools-x-undertale undertale
 category: byetools
 ---
 
+_The blog is being moved to blog.byemc.xyz, hosted on Tumblr._
+
 So, recently I decieded to start playing [Undertale](https://undertale.com/), and after about *two hours*(!) I decided to change up my save game. Unfortunatly, Annoying Dog had other ideas.
 
 <img src="https://pcy.ulyssis.be/undertale/img/rooms/room_of_dog.png" alt="Room of Dog">
